@@ -7,7 +7,7 @@
 
 Задача 1:
 
-<p>1.1 301 Moved Permanently</p>
+<p>1.1 301 Moved Permanently</p> 1
 <p> 1.2 VK </p>
 <p> 1.3 Перенаправление на https://www.google.com/ </p>
 
